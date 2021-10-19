@@ -15,4 +15,4 @@
 </h3>
 
 Recriate the basic functionality of an 'Uber' app (create user, start and end rides, pay, etc.). Create at least three different classes to do so: Uber, Driver and Passenger.
-This is a practice exercise, no grading needed. 
+This is a practice exercise, no grading needed. To check the code on browser, access [its codesandbox repository](https://codesandbox.io/s/santandercoders-web-activity-module-3-4e3qz?file=/index.html).
