@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align=center>
-	 <i>Module #3Exercises</i>
+	 <i>Module #3 Exercises</i>
 </h2>
 
 <p align=center>
